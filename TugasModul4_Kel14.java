@@ -29,3 +29,5 @@ class TugasModul4_Kel14 {
                 System.out.println("-----------------------------------------");
 
                 float hasil_IPA = 0, hasil_BIN = 0, hasil_IPS = 0, hasil_MAT =0, hasil_BI= 0;
+         
+test1, test2, test3
